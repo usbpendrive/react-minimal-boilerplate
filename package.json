@@ -10,6 +10,12 @@
     "test": "jest --coverage",
     "build": "webpack --mode production"
   },
+  "dependencies": {
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3",
+    "react-router": "^4.3.1",
+    "react-loadable": "^5.5.0"
+  },
   "devDependencies": {
     "@babel/core": "^7.1.6",
     "@babel/preset-env": "^7.1.6",
